@@ -8,8 +8,6 @@ Classification Task will be using the [IMDB Dataset](https://www.kaggle.com/data
 
 Language Modelling will be using the [Cornell Movie-Dialogue Corpus](https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus) data.
 
-Note that the data will not be within the repo due to its size (~500MB, ~23GB respectively)
-
 ## Requirements Overview
 
 The number of required Notebooks is $3$, with each of them taking a different approach to the task.
