@@ -4,9 +4,9 @@ Text Classification and Language Modelling, using RNN, LSTM, and Attention with 
 
 ## Data Used
 
-Classification Task will be using the [CNN-DailyMail News](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail) data.
+Classification Task will be using the [IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews) data.
 
-Language Modelling will be using the [Plain Text Wikipedia](https://www.kaggle.com/datasets/ltcmdrdata/plain-text-wikipedia-202011) data.
+Language Modelling will be using the [Cornell Movie-Dialogue Corpus](https://www.kaggle.com/datasets/rajathmc/cornell-moviedialog-corpus) data.
 
 Note that the data will not be within the repo due to its size (~500MB, ~23GB respectively)
 
